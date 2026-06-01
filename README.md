@@ -2,8 +2,7 @@
 
 ## Sobre mí
 
-Profesional con experiencia en operaciones administrativas,
-control de procesos y elaboración de reportes.
+Profesional con experiencia en análisis estadístico aplicado, estructuración de información compleja y optimización de procesos mediante herramientas como Excel, Power BI y SQL. Capacidad para detectar inconsistencias, mejorar controles y transformar datos operativos en reportes visuales y comprensibles para áreas operativas y gerenciales..
 
 Actualmente me estoy especializando en:
 
