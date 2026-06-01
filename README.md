@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Luis Fernando Guzmán Suárez 👋
 
-<!--
-**luisfernandogs/luisfernandogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Profesional con experiencia en operaciones administrativas,
+control de procesos y elaboración de reportes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me estoy especializando en:
+
+- Excel Avanzado
+- SQL
+- Python
+- Power BI
+- Análisis de Datos
+- Automatización de Procesos
+
+## Objetivo Profesional
+
+Desarrollar una carrera en análisis de datos,
+inteligencia de negocios y mejora continua.
+
+## Herramientas
+
+- Microsoft Excel
+- Power BI
+- SQL
+- Python
+- Git
+- GitHub
+
+## Contacto
+
+LinkedIn:
+www.linkedin.com/in/luis-fernando-guzmán-s-23518a1a3
+
+Correo:
+luisg5576@gmail.com
